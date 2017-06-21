@@ -89,3 +89,15 @@ ENV/
 
 # Rope project settings
 .ropeproject
+tweetCrime.txt
+tweetDailyExpense.txt
+tweetDailySpending.txt
+tweetEconomy.txt
+tweetEducation.txt
+tweetEmployment.txt
+tweetge14.txt
+tweetHealthService.txt
+tweetPensions.txt
+tweetTransport.txt
+tweetTax.txt
+tweetLaw.txt
